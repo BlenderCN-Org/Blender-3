@@ -1,5 +1,5 @@
 # Blender
-* addons
+* [addons](./addons)
     * EasyFX.py
     * Enhanced 3D Cursor.py
     * VSE_Transform_Tool.py
