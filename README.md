@@ -1,13 +1,12 @@
 # Blender
 * [addons](./addons)
-    * EasyFX.py
-    * Enhanced 3D Cursor.py
-    * VSE_Transform_Tool.py
-    * Zero_Brush.py
-    * matalogue.py
-    * scene_amaranth_toolset.zip
-    * sequencer_jumptocut.py
-    * space_view3d_screencast_keys.py
-    * space_view3d_spacebar_menu.py
-    * system_project_folder.py
-    * 主菜单栏切换中英文.py
+    * [EasyFX.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/EasyFX.py "悬停显示")
+    * [Enhanced 3D Cursor.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/Enhanced%203D%20Cursor.py "悬停显示")
+    * [VSE_Transform_Tool.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/VSE_Transform_Tool.py "悬停显示")
+    * [Zero_Brush.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/Zero_Brush.py "悬停显示")
+    * [matalogue.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/matalogue.py "悬停显示")
+    * [sequencer_jumptocut.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/sequencer_jumptocut.py "悬停显示")
+    * [space_view3d_screencast_keys.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/space_view3d_screencast_keys.py "悬停显示")
+    * [space_view3d_spacebar_menu.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/space_view3d_spacebar_menu.py "推荐")
+    * [system_project_folder.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/system_project_folder.py "推荐")
+    * [主菜单栏切换中英文.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/%E4%B8%BB%E8%8F%9C%E5%8D%95%E6%A0%8F%E5%88%87%E6%8D%A2%E4%B8%AD%E8%8B%B1%E6%96%87.py "推荐")
