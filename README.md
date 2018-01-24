@@ -7,7 +7,7 @@ Blender
 ##### [space_view3d_spacebar_menu.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/space_view3d_spacebar_menu.py)
 ##### [space_view3d_screencast_keys.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/space_view3d_screencast_keys.py)
 ##### [EasyFX.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/EasyFX.py)
-##### [Enhanced 3D Cursor.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/Enhanced%203D%20Cursor.py)
+##### [Enhanced 3D Cursor.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/Enhanced%203D%20Cursor.py)——五星推荐：简单方便的3D游标插件
 ##### [VSE_Transform_Tool.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/VSE_Transform_Tool.py)
 ##### [Zero_Brush.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/Zero_Brush.py)
 ##### [matalogue.py](https://raw.githubusercontent.com/Whosydd/Blender/master/addons/matalogue.py)
